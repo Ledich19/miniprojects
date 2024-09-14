@@ -1,4 +1,5 @@
-# miniprojects
+# miniprojects 
+html, scss, js
 
 https://ledich19.github.io/miniprojects/My-first-snake
 
